@@ -1,5 +1,5 @@
 API диплома
 
 
-API сервера: https://api.demmest.movies.nomoredomains.work (217.28.230.213)
+API сервера: https://api.demmest.movies.nomoredomains.work (178.154.222.195)
 
